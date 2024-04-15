@@ -1,1 +1,3 @@
-# _config.yml
+title: Jekyll:iä käyttävä sivusto
+description: Tervetuloa sivustolle!
+theme: jekyll-theme-cayman
